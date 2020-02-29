@@ -1,0 +1,12 @@
+﻿{
+  "Name": "KentMail",
+  "Author": "Lizi",
+  "Version": "1.0.0",
+  "Description": "Replaces the bombs Kent sends in the mail with other shed related items (5 grass starter, 10 basic fertiliser, 10 copper ore)",
+  "UniqueID": "Lizi.KentMail",
+  "MinimumApiVersion": "2.10.0",
+  "UpdateKeys": [],
+  "ContentPackFor": {
+	"UniqueID":  "Pathoschild.ContentPatcher"
+	}
+}
